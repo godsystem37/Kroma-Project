@@ -1,0 +1,9 @@
+Положи в эту папку файлы шрифтов из Figma:
+
+LUNNA (заголовки блоков):
+  Lunna.woff2  или  Lunna.otf
+
+AA STETICA Medium 500 (подписи на карточках каталога):
+  AAStetica-Medium.woff2  или  AAStetica-Medium.otf
+
+Имена файлов — как выше. После копирования обнови страницу (Cmd+Shift+R).

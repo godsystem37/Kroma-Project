@@ -1,0 +1,32 @@
+Положи файлы в эти папки с ТОЧНЫМИ именами (латиница, как ниже).
+Формат: PNG или WebP. Для фото — экспорт 2x из Figma.
+
+hero/
+  bg.jpg              — фон первого экрана (мастерская, на весь экран)
+
+products/
+  bag.png             — хит: сумка
+  wallet.png          — хит: кошелёк
+  belt.png            — хит: ремень
+  gloves.png          — хит: перчатки
+
+catalog/
+  gloves.jpg          — карточка «Перчатки»
+  bags.jpg            — карточка «Сумки»
+  cases.jpg           — карточка «Чехлы»
+  wallets.jpg         — карточка «Кошельки»
+  charms.jpg          — карточка «Брелки»
+  belts.jpg           — карточка «Ремни»
+  straps.jpg          — карточка «Ремешки для часов»
+
+faq/
+  bag.jpg             — квадратное фото слева в «Частые вопросы»
+
+icons/   (опционально — сейчас иконки нарисованы в коде)
+  handmade.svg
+  leather.svg
+  durability.svg
+  individuality.svg
+
+logo/    (создай папку logo, если есть отдельный логотип из Figma)
+  logo.svg            — или logo.png
