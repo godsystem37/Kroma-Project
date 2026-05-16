@@ -86,7 +86,6 @@ section{
 .nav-links{
   display:flex;
   gap:40px;
-  background-color: #8D3E00;
   padding: 16px 15px;
   border-radius: 12px;
 }
